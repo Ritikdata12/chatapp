@@ -1,2 +1,2 @@
-IN this i have user react js, socket.io and harperdb.
+IN this i have user react js, socket.io , harperdb and mysql.
 Here in this application we have four types of chatbot rooms, where multiple users can chat in these rooms at the real-time.
